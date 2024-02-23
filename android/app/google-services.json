@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "630281506515",
+    "project_id": "platzi-trips-flutter-ec5c4",
+    "storage_bucket": "platzi-trips-flutter-ec5c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630281506515:android:ea825cdafc8aad052e0e26",
+        "android_client_info": {
+          "package_name": "com.example.curso_avanzado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630281506515-ehq3i11u8u0sbggmi7ughrus11l59b6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs0HgrwF9nLGaYVkNkv-tSPLa2KhktH-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630281506515-ehq3i11u8u0sbggmi7ughrus11l59b6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630281506515-v4rcd9s613mof1ustj688slj57aagisk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.curso2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
